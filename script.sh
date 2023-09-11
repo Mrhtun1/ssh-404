@@ -33,8 +33,8 @@ echo "
 
 <h3><font color='red'>----------©©®®Gcp Sever©©®®----------
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
-useradd "MrHtun" --shell=/bin/false -M
-echo "MrHtun:MrHtun" | chpasswd
+useradd "Mrhtun10" --shell=/bin/false -M
+echo "Mrhtun10:Mrhtun10" | chpasswd
 
 echo ""
 
