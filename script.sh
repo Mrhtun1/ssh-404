@@ -25,10 +25,10 @@ echo "
 <h3><font color='green'>🎭🗄️🎭Premium SEVER🎭 🗄️🎭
 </font></h3>
 
-<h4><font color='cyan'>Telegram Channel >>အခြားသူရဲ့ပျော်ရွှင်မှုဟာ သင့်ရဲ့ပျော်ရွှင်မှုထက် ပိုပြီး အရေးကြီးတယ်ဆိုတာဟာ ချစ်ခြင်းမေတ္တာ ဖြစ်ပေါ်ချိန်ပါပဲ။#crd
+<h4><font color='cyan'>အခြားသူရဲ့ပျော်ရွှင်မှုဟာ သင့်ရဲ့ပျော်ရွှင်မှုထက် ပိုပြီး အရေးကြီးတယ်ဆိုတာဟာ ချစ်ခြင်းမေတ္တာ ဖြစ်ပေါ်ချိန်ပါပဲ။#crd
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >>My Channel https://t.me/freegcp2
+<h4><font color='blue'>Telegram Channel >>https://t.me/freegcp2
 </font></h4>
 
 <h3><font color='red'>----------©©®®Gcp Sever©©®®----------
